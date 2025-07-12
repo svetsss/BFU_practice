@@ -82,7 +82,7 @@ Python версия 3.12
 Клонирование репозитория:
 
 ```bash
-git clone https://github.com/KatyaWantsLive/ptichka_infobot
+git clone https://github.com/svetsss/BFU_practice
 cd ptichka_infobot
 ```
 
